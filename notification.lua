@@ -35,9 +35,9 @@ local CONFIG = {
 	ExitTime = 0.4,
 
 	Icons = {
-		Info = "rbxassetid://9136721361", -- Example: Using Roblox default icons
-		Warn = "rbxassetid://9136720921",
-		Error = "rbxassetid://9136721758",
+		Info = "rbxassetid://112082878863231", -- Example: Using Roblox default icons
+		Warn = "rbxassetid://117107314745025",
+		Error = "rbxassetid://77067602950967",
 		-- Replace with your preferred icons if needed
 		-- Info = "rbxassetid://112082878863231",
 		-- Warn = "rbxassetid://117107314745025",
